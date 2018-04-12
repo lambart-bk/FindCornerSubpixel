@@ -1,0 +1,4 @@
+1、CV_8UC1:无符号,有符号可用CV_32FC1
+2、row,col 与 width,height 与 x,y 不要弄混！！！
+3、注意迭代的作用
+
